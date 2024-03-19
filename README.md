@@ -1,2 +1,2 @@
 # color-coding
-color guessing game
+color guessing game by simple using html,css and javascript
